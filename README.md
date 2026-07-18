@@ -126,14 +126,6 @@ cd setetes-mobile
 
 ---
 
-## 📱 Tangkapan Layar (Screenshots)
-
-*(Ganti URL placeholder di bawah ini dengan link gambar screenshot aplikasimu yang sebenarnya)*
-
-| Splash Screen | Halaman Login | Dasbor Utama (Stok Darah) |
-| :---: | :---: | :---: |
-| <img src="https://via.placeholder.com/200x400.png?text=Splash+Screen" width="200"/> | <img src="https://via.placeholder.com/200x400.png?text=Login+Screen" width="200"/> | <img src="https://via.placeholder.com/200x400.png?text=Home+Screen" width="200"/> |
-
 ---
 
 ## 🤝 Kontribusi (Contributing)
